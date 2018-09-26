@@ -1,6 +1,6 @@
 1、官网下载XMind安装客户端并安装
 2、下载补丁XMindCrack.jar
-3、将补丁复制到安装路径的根目录 （根据自己需要选择安装位置）
+3、将补丁复制到安装路径的根目录（根据自己需要选择安装位置）
 如：C:\Program Files (x86)\XMind
 4、找到安装目录中的xmind.ini
 安装路径C:\Program Files (x86)\XMind
